@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+}
+.logo{
+    background:#d4dee1;
+    width: 55%;
+    height: 700px;
+    float:left;
+}
+
+.logo-text{
+    color:#1877F2;
+    font-size:60px;
+    font-family:Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    margin-left: 90px;
+    margin-top: 213px;
+}
+.logo-subtext{
+    
+    font-family: SFProD363pxisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    margin-left: 94px;
+    padding-top: 0px;
+ 
+}
+.box{
+    background: #d4dee1;
+    width: 45%;
+    height: 700px;
+    
+    float:left;
+}
+.login{
+    padding-bottom: 120px;
+    margin-left: 3px;
+    background: #fff;
+    width: 63%;
+    height: 284px;
+    padding-left: 56px;
+    padding-top: 0px;
+    float: left;
+    margin-top: 126px;
+
+}
+.login-controls{
+    
+    margin-top: 100px
+}
+::placeholder{
+    font-size: 15px;
+}
+
+.ph-password-input{
+    font-size:large;
+    width: 285px;
+    height: 38px;
+    margin-top: 15px;
+
+}
+.login-button{
+    color: white;
+    font-size:x-large ;
+    background-color: #1877F2;
+    width: 100%;
+    height:38px ;
+    border: 0;
+    outline: none;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+.forgotten-link{
+    text-align: center;
+    
+    text-decoration: none;
+    font-size:large ;
+    color: white;
+    margin-top: 15px;
+}
+.info{
+   height: 42px;
+    color: white;
+    font-size: larger ;
+    background-color: #29c741;
+    width: 100%;
+    border: 0;
+    outline: none;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+.below-write{
+    text-align: initial;
+    color: rgb(20, 19, 19);
+    width: 106%;
+    margin-top:40px ;
+    
+    padding-left: 0;
+   
+}
+.footer{
+    width: 100%;
+    height: 175px;
+    background: rgb(243, 249, 250);
+    float: left;
+}
+.footer-text{
+    text-align: center;
+}
+.login-controls td{
+    text-align: center;
+}
